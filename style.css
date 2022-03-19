@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.piroz{
+    margin-top: 10%;
+    padding: 7%;
+    background-color: #A8E88A;
+}
+.text-piroz{
+    font-family: 'Stencil';
+    font-weight: 400;
+    line-height: 150px;
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+.rot{
+    background-color: #FF6363;
+    padding: 2%;
+
+}
+.text-de{
+    font-family: 'Stencil';
+    line-height: 150px;
+    text-align: center;
+    letter-spacing: 0.2em;
+
+}
